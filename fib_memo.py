@@ -1,0 +1,2 @@
+def memo(num):
+    mem = {}
